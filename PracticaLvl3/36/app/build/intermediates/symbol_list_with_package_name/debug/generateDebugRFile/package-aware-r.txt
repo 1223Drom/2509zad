@@ -1,0 +1,20 @@
+com.example.a36
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCalculate
+id etAmount
+id etMonths
+id etRate
+id tvMonthly
+id tvSchedule
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme__36
+style Theme__36
+xml backup_rules
+xml data_extraction_rules

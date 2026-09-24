@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnBack
+id btnCreateCard
+id etName
+id etPhone
+id etProfession
+id tvCardName
+id tvCardPhone
+id tvCardProfession
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._34
+style Theme._34
+xml backup_rules
+xml data_extraction_rules

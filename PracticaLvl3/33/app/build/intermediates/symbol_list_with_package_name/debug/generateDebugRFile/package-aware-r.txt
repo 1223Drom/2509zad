@@ -1,0 +1,23 @@
+com.example.a33
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnQ1A
+id btnQ1B
+id btnQ1C
+id btnQ2A
+id btnQ2B
+id btnQ2C
+id btnRestart
+id tvScore
+layout activity_main
+layout activity_second
+layout activity_third
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme__33
+style Theme__33
+xml backup_rules
+xml data_extraction_rules

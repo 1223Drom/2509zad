@@ -1,0 +1,17 @@
+com.example.a29
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCalculate
+id etDistance
+id etSpeed
+id tvResult
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme__29
+style Theme__29
+xml backup_rules
+xml data_extraction_rules

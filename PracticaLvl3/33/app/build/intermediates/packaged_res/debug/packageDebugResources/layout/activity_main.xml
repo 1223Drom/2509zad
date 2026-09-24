@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Вопрос 1 из 2"
+        android:textSize="14sp"
+        android:textColor="#888"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Сколько планет в Солнечной системе?"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnQ1A"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="7"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnQ1B"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="8"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnQ1C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="9" />
+
+</LinearLayout>

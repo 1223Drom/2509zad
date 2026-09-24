@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable invalid
+id btnAbout
+id btnBack
+id btnContacts
+id btnSkills
+id tvDetailContent
+id tvDetailTitle
+id tvGroup
+id tvName
+layout activity_detail
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._310
+style Theme._310
+xml backup_rules
+xml data_extraction_rules
