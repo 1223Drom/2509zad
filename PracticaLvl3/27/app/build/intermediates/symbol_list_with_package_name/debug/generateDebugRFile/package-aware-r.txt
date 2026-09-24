@@ -1,0 +1,18 @@
+com.example.a27
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnGenerate
+id radio4
+id radio6
+id radioGroup
+id tvPin
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme__27
+style Theme__27
+xml backup_rules
+xml data_extraction_rules

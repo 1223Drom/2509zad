@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="brand_blue">#1976D2</color>
+    <color name="brand_gray">#F5F5F5</color>
+    <color name="brand_green">#388E3C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Мое Первое Приложение</string>
+    <string name="btn_change_title">Сменить заголовок</string>
+    <string name="btn_clear">Очистить всё</string>
+    <string name="btn_go_to_about">О программе</string>
+    <string name="btn_go_to_second">Перейти на второй экран</string>
+    <string name="btn_greet">Поздороваться</string>
+    <string name="btn_hide_result">Скрыть результат</string>
+    <string name="btn_open_browser">Открыть браузер</string>
+    <string name="click_counter">Нажатий: </string>
+    <string name="click_counter_label">Нажатий: %1$d</string>
+    <string name="error_empty_name">Пожалуйста, введите имя!</string>
+    <string name="error_short_name">Слишком короткое имя!</string>
+    <string name="greatings">! Рады тебя видеть</string>
+    <string name="greeting_format">Привет, %1$s! Рады тебя видеть.</string>
+    <string name="hi">Привет</string>
+    <string name="hint_enter_age">Введите ваш возраст</string>
+    <string name="hint_enter_name">Введите ваше имя</string>
+    <string name="placeholder_click_counter">Счётчик нажатий</string>
+    <string name="placeholder_result">Здесь появится ответ</string>
+    <string name="title_changed">Текст успешно изменен!</string>
+    <string name="title_welcome">Добро пожаловать!</string>
+    <string name="toast_greeting_sent">Приветствие отправлено!</string>
+    <string name="user_info">Пользователь: %1$s, возраст: %2$d лет</string>
+    <style name="Theme.MyFirstApp" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>

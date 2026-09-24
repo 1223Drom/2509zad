@@ -1,0 +1,23 @@
+com.example.a37
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnBack
+id btnGenerate
+id etFrom
+id etPassenger
+id etTo
+id tvDate
+id tvPassenger
+id tvRoute
+id tvTicketNumber
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme__37
+style Theme__37
+xml backup_rules
+xml data_extraction_rules
