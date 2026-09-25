@@ -1,8 +1,0 @@
-com.example.myfirstapp-pngs-0 D:\Android\MyFirstApp\app\build\generated\res\pngs\debug
-com.example.myfirstapp-updated_navigation_xml-1 D:\Android\MyFirstApp\app\build\generated\updated_navigation_xml\debug
-com.example.myfirstapp-packageDebugResources-2 D:\Android\MyFirstApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.myfirstapp-packageDebugResources-3 D:\Android\MyFirstApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.myfirstapp-debug-4 D:\Android\MyFirstApp\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.myfirstapp-debug-5 D:\Android\MyFirstApp\app\src\debug\res
-com.example.myfirstapp-main-6 D:\Android\MyFirstApp\app\src\main\res
-gradleHome-0 C:\Users\Dimoon\.gradle
